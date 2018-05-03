@@ -1,5 +1,7 @@
 body{
 	background-color: rgb(255, 221, 153);
+	font-family: monospace;
+	font-size: 0.9em;
 }
 
 #container {
